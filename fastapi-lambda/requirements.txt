@@ -1,0 +1,6 @@
+fastapi
+pydantic
+uvicorn
+mangum
+langchain
+langchain_openai
